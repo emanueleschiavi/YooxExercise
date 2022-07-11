@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YooxExercise", "YooxExercise\YooxExercise.csproj", "{1EDA34EE-2846-4CBA-B364-A9D3CE8A287A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YooxTestProject", "YooxTestProject\YooxTestProject.csproj", "{3041862D-33A3-4558-9CD2-82ADD2171325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDA34EE-2846-4CBA-B364-A9D3CE8A287A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDA34EE-2846-4CBA-B364-A9D3CE8A287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDA34EE-2846-4CBA-B364-A9D3CE8A287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDA34EE-2846-4CBA-B364-A9D3CE8A287A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3041862D-33A3-4558-9CD2-82ADD2171325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3041862D-33A3-4558-9CD2-82ADD2171325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3041862D-33A3-4558-9CD2-82ADD2171325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3041862D-33A3-4558-9CD2-82ADD2171325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94B0F303-4871-421F-A983-7EFC701863D2}
+	EndGlobalSection
+EndGlobal
