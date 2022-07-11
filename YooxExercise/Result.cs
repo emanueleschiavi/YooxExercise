@@ -49,28 +49,7 @@ namespace YooxExercise
             {
                 j = i - StartPosition;
                 Triangle t = GetTriangle(triangleToy[i]);
-                if(t.isValid)
-                {
-                    if(t.a == t.b || t.a == t.c || t.b == t.c) //is Isosceles or Equilateral
-                    {
-                        if(t.a == t.b && t.b == t.c) //is Equilateral
-                        {
-                            result[j] = "Equilateral";
-                        }
-                        else
-                        {
-                            result[j] = "Isosceles";
-                        }
-                    }
-                    else
-                    {
-                        result[j] = "None of these";
-                    }
-                }
-                else //triangle input is not valid, use "None of these" as default value
-                {
-                    result[j] = "None of these";
-                }
+                result[j] = t.TriangleType();
             }
 
             return result;
@@ -145,6 +124,33 @@ namespace YooxExercise
         public int c { get; set; }
 
         public bool isValid { get; set; }
+
+        public string TriangleType()
+        {
+            if (this.isValid)
+            {
+                if (this.a == this.b || this.a == this.c || this.b == this.c) //is Isosceles or Equilateral
+                {
+                    if (this.a == this.b && this.b == this.c) //is Equilateral
+                    {
+                        return "Equilateral";
+                    }
+                    else
+                    {
+                        return "Isosceles";
+                    }
+                }
+                else
+                {
+                    return "None of these";
+                }
+            }
+            else //triangle input is not valid, use "None of these" as default value
+            {
+                return "None of these";
+            }
+
+        }
 
     }
 

@@ -4,3 +4,9 @@ C:\Users\eschiavi\source\repos\YooxExercise\YooxExercise\obj\Debug\YooxExercise.
 C:\Users\eschiavi\source\repos\YooxExercise\YooxExercise\obj\Debug\YooxExercise.csproj.CoreCompileInputs.cache
 C:\Users\eschiavi\source\repos\YooxExercise\YooxExercise\obj\Debug\YooxExercise.dll
 C:\Users\eschiavi\source\repos\YooxExercise\YooxExercise\obj\Debug\YooxExercise.pdb
+C:\Users\eschiavi\Source\Repos\YooxExerciseGIT\YooxExercise\bin\Debug\YooxExercise.dll
+C:\Users\eschiavi\Source\Repos\YooxExerciseGIT\YooxExercise\bin\Debug\YooxExercise.pdb
+C:\Users\eschiavi\Source\Repos\YooxExerciseGIT\YooxExercise\obj\Debug\YooxExercise.csproj.AssemblyReference.cache
+C:\Users\eschiavi\Source\Repos\YooxExerciseGIT\YooxExercise\obj\Debug\YooxExercise.csproj.CoreCompileInputs.cache
+C:\Users\eschiavi\Source\Repos\YooxExerciseGIT\YooxExercise\obj\Debug\YooxExercise.dll
+C:\Users\eschiavi\Source\Repos\YooxExerciseGIT\YooxExercise\obj\Debug\YooxExercise.pdb
